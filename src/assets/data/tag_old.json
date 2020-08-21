@@ -1,0 +1,69 @@
+[
+    {
+        "parent_tag": "\u8208\u8da3",
+        "child_tags": [
+            "3C",
+            "\u6587\u85dd",
+            "\u4e3b\u5a66",
+            "\u6bcd\u5b30\u89aa\u5b50",
+            "\u751f\u6d3b\u7d9c\u5408",
+            "\u4f11\u9592"
+        ]
+    },
+    {
+        "parent_tag": "\u54c1\u724c",
+        "child_tags": [
+            "3C",
+            "\u6587\u85dd",
+            "\u4e3b\u5a66",
+            "\u6bcd\u5b30\u89aa\u5b50",
+            "\u751f\u6d3b\u7d9c\u5408",
+            "\u4f11\u9592"
+        ]
+    },
+    {
+        "parent_tag": "\u5a92\u9ad4",
+        "child_tags": [
+            "\u96fb\u8996\u5a92\u9ad4",
+            "\u5ee3\u64ad\u5a92\u9ad4",
+            "\u5831\u7d19\u5a92\u9ad4",
+            "\u96dc\u8a8c\u5a92\u9ad4",
+            "\u5165\u53e3\u7db2\u7ad9",
+            "\u7db2\u8def\u539f\u751f\u5a92\u9ad4",
+            "\u53e6\u985e\u5a92\u9ad4"
+        ]
+    },
+    {
+        "parent_tag": "\u7d44\u7e54",
+        "child_tags": [
+            "3C",
+            "\u6587\u85dd",
+            "\u4e3b\u5a66",
+            "\u6bcd\u5b30\u89aa\u5b50",
+            "\u751f\u6d3b\u7d9c\u5408",
+            "\u4f11\u9592"
+        ]
+    },
+    {
+        "parent_tag": "\u540d\u4eba",
+        "child_tags": [
+            "3C",
+            "\u6587\u85dd",
+            "\u4e3b\u5a66",
+            "\u6bcd\u5b30\u89aa\u5b50",
+            "\u751f\u6d3b\u7d9c\u5408",
+            "\u4f11\u9592"
+        ]
+    },
+    {
+        "parent_tag": "\u7db2\u7d05",
+        "child_tags": [
+            "3C",
+            "\u6587\u85dd",
+            "\u4e3b\u5a66",
+            "\u6bcd\u5b30\u89aa\u5b50",
+            "\u751f\u6d3b\u7d9c\u5408",
+            "\u4f11\u9592"
+        ]
+    }
+]

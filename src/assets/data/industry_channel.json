@@ -1,0 +1,1509 @@
+[{
+  "_id": {
+    "$oid": "5c6668da617d854cd80a9de6"
+  },
+  "name": "尿布",
+  "urls": 4202,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-03-19T05:03:09Z"
+  },
+  "created_at": {
+    "$date": "2019-02-15T07:23:06Z"
+  }
+},{
+  "_id": {
+    "$oid": "5cda477b617d855885138158"
+  },
+  "name": "連鎖餐廳、速食店、咖啡店",
+  "urls": 2043,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:14Z"
+  },
+  "created_at": {
+    "$date": "2019-05-14T04:43:39Z"
+  }
+},{
+  "_id": {
+    "$oid": "5c66738c617d85203f50d776"
+  },
+  "name": "電視(黑電)",
+  "urls": 1471,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:13Z"
+  },
+  "created_at": {
+    "$date": "2019-02-15T08:08:44Z"
+  }
+},{
+  "_id": {
+    "$oid": "5d020a7f617d8515082e14b6"
+  },
+  "name": "小家電",
+  "urls": 2196,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-05-05T08:49:45Z"
+  },
+  "created_at": {
+    "$date": "2019-06-13T08:34:07Z"
+  }
+},{
+  "_id": {
+    "$oid": "5cf0a6f8617d855f36644725"
+  },
+  "name": "健身房",
+  "urls": 1768,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:14Z"
+  },
+  "created_at": {
+    "$date": "2019-05-31T04:00:56Z"
+  }
+},{
+  "_id": {
+    "$oid": "5d11f975617d85630b40fcf6"
+  },
+  "name": "自設客戶通用頻道",
+  "urls": 12145,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-04-14T09:03:07Z"
+  },
+  "created_at": {
+    "$date": "2019-06-25T10:37:41Z"
+  }
+},{
+  "_id": {
+    "$oid": "5bdc074c617d856f731ac8a7"
+  },
+  "name": "汽車",
+  "urls": 1442,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:13Z"
+  },
+  "created_at": {
+    "$date": "2018-11-02T08:14:04Z"
+  }
+},{
+  "_id": {
+    "$oid": "5d020a5c617d85126b274748"
+  },
+  "name": "白電",
+  "urls": 2538,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:14Z"
+  },
+  "created_at": {
+    "$date": "2019-06-13T08:33:32Z"
+  }
+},{
+  "_id": {
+    "$oid": "5cd92021617d85789d673729"
+  },
+  "name": "信用卡",
+  "urls": 938,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-04-30T07:23:15Z"
+  },
+  "created_at": {
+    "$date": "2019-05-13T07:43:29Z"
+  }
+},{
+  "_id": {
+    "$oid": "5be00fc6617d85685d015f04"
+  },
+  "name": "母嬰",
+  "urls": 7238,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-03-19T05:02:48Z"
+  },
+  "created_at": {
+    "$date": "2018-11-05T09:39:18Z"
+  }
+},{
+  "_id": {
+    "$oid": "5c66741d617d854cd80a9de8"
+  },
+  "name": "銀行",
+  "urls": 924,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-04-16T07:59:18Z"
+  },
+  "created_at": {
+    "$date": "2019-02-15T08:11:09Z"
+  }
+},{
+  "_id": {
+    "$oid": "5cee43a2617d852520439734"
+  },
+  "name": "3C用品",
+  "urls": 1805,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:14Z"
+  },
+  "created_at": {
+    "$date": "2019-05-29T08:32:34Z"
+  }
+},{
+  "_id": {
+    "$oid": "5c64f8a5617d854cd80a9de5"
+  },
+  "name": "威士忌",
+  "urls": 617,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:13Z"
+  },
+  "created_at": {
+    "$date": "2019-02-14T05:12:05Z"
+  }
+},{
+  "_id": {
+    "$oid": "5cc67a32617d8502dc69a115"
+  },
+  "name": "即食麵",
+  "urls": 2059,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:13Z"
+  },
+  "created_at": {
+    "$date": "2019-04-29T04:14:42Z"
+  }
+},{
+  "_id": {
+    "$oid": "5cd9203f617d8549e01bfa87"
+  },
+  "name": "奶粉",
+  "urls": 1806,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-03-16T04:50:13Z"
+  },
+  "created_at": {
+    "$date": "2019-05-13T07:43:59Z"
+  }
+},{
+  "_id": {
+    "$oid": "5c66735b617d854cd80a9de7"
+  },
+  "name": "綜合型電商",
+  "urls": 1624,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:13Z"
+  },
+  "created_at": {
+    "$date": "2019-02-15T08:07:55Z"
+  }
+},{
+  "_id": {
+    "$oid": "5bdbfd62617d851dd7586fe5"
+  },
+  "name": "台灣美妝",
+  "urls": 2641,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-04-23T03:44:07Z"
+  },
+  "created_at": {
+    "$date": "2018-11-02T07:31:46Z"
+  }
+},{
+  "_id": {
+    "$oid": "5cc679a2617d856ab52aa05d"
+  },
+  "name": "大賣場(超市)",
+  "urls": 1570,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:13Z"
+  },
+  "created_at": {
+    "$date": "2019-04-29T04:12:18Z"
+  }
+},{
+  "_id": {
+    "$oid": "5cc6be4e617d8502dc69a116"
+  },
+  "name": "隱形眼鏡",
+  "urls": 1624,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:13Z"
+  },
+  "created_at": {
+    "$date": "2019-04-29T09:05:18Z"
+  }
+},{
+  "_id": {
+    "$oid": "5c66732b617d854cd64f5a28"
+  },
+  "name": "電信業者",
+  "urls": 3540,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:13Z"
+  },
+  "created_at": {
+    "$date": "2019-02-15T08:07:07Z"
+  }
+},{
+  "_id": {
+    "$oid": "5c667449617d85203f50d777"
+  },
+  "name": "寬頻",
+  "urls": 1760,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-05-04T08:36:15Z"
+  },
+  "created_at": {
+    "$date": "2019-02-15T08:11:53Z"
+  }
+},{
+  "_id": {
+    "$oid": "5d5cbec3617d853f343cd844"
+  },
+  "name": "越南消費調查PRO",
+  "urls": 6352,
+  "country": "VN",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:14Z"
+  },
+  "created_at": {
+    "$date": "2019-08-21T03:47:15Z"
+  }
+},{
+  "_id": {
+    "$oid": "5d5bbae2617d857ecb279aa5"
+  },
+  "name": "髮品(洗護髮)",
+  "urls": 1668,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:14Z"
+  },
+  "created_at": {
+    "$date": "2019-08-20T09:18:26Z"
+  }
+},{
+  "_id": {
+    "$oid": "5d5b947c617d856fa52346b5"
+  },
+  "name": "啤酒",
+  "urls": 739,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:14Z"
+  },
+  "created_at": {
+    "$date": "2019-08-20T06:34:36Z"
+  }
+},{
+  "_id": {
+    "$oid": "5d562912617d851f2d2f4ec4"
+  },
+  "name": "自設用戶專用(400個)",
+  "urls": 456,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:14Z"
+  },
+  "created_at": {
+    "$date": "2019-08-16T03:54:58Z"
+  }
+},{
+  "_id": {
+    "$oid": "5d5bc900617d85027c2699d4"
+  },
+  "name": "醫美診所",
+  "urls": 2822,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-02-18T05:02:59Z"
+  },
+  "created_at": {
+    "$date": "2019-08-20T10:18:40Z"
+  }
+},{
+  "_id": {
+    "$oid": "5d5baebc617d8578b0346175"
+  },
+  "name": "OTT",
+  "urls": 4254,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-03-19T05:04:12Z"
+  },
+  "created_at": {
+    "$date": "2019-08-20T08:26:36Z"
+  }
+},{
+  "_id": {
+    "$oid": "5d65fd09617d8571567b55e3"
+  },
+  "name": "購物百貨",
+  "urls": 3837,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-02-18T05:03:38Z"
+  },
+  "created_at": {
+    "$date": "2019-08-28T04:03:21Z"
+  }
+},{
+  "_id": {
+    "$oid": "5d64fc42617d85394267e127"
+  },
+  "name": "新加坡美妝(no SNS)",
+  "urls": 443,
+  "country": "SG",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:15Z"
+  },
+  "created_at": {
+    "$date": "2019-08-27T09:47:46Z"
+  }
+},{
+  "_id": {
+    "$oid": "5d65f659617d853b0e4f5d96"
+  },
+  "name": "航空公司",
+  "urls": 803,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:15Z"
+  },
+  "created_at": {
+    "$date": "2019-08-28T03:34:49Z"
+  }
+},{
+  "_id": {
+    "$oid": "5d65fce6617d853d036ed569"
+  },
+  "name": "國際精品",
+  "urls": 2597,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:15Z"
+  },
+  "created_at": {
+    "$date": "2019-08-28T04:02:46Z"
+  }
+},{
+  "_id": {
+    "$oid": "5d65f6f5617d853b0e4f5d97"
+  },
+  "name": "語言補習班",
+  "urls": 2089,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:15Z"
+  },
+  "created_at": {
+    "$date": "2019-08-28T03:37:25Z"
+  }
+},{
+  "_id": {
+    "$oid": "5d65fc2e617d853d0e7e95ab"
+  },
+  "name": "線上教學平台",
+  "urls": 30,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:15Z"
+  },
+  "created_at": {
+    "$date": "2019-08-28T03:59:42Z"
+  }
+},{
+  "_id": {
+    "$oid": "5d68f753617d851f865e3fd5"
+  },
+  "name": "馬來西亞美妝(No SNS)",
+  "urls": 944,
+  "country": "MY",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:15Z"
+  },
+  "created_at": {
+    "$date": "2019-08-30T10:15:47Z"
+  }
+},{
+  "_id": {
+    "$oid": "5d6df8ed617d85228f670635"
+  },
+  "name": "新加坡美妝",
+  "urls": 6187,
+  "country": "SG",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:15Z"
+  },
+  "created_at": {
+    "$date": "2019-09-03T05:23:57Z"
+  }
+},{
+  "_id": {
+    "$oid": "5d64fc92617d85395d5ba799"
+  },
+  "name": "越南(no SNS)",
+  "urls": 934,
+  "country": "VN",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:15Z"
+  },
+  "created_at": {
+    "$date": "2019-08-27T09:49:06Z"
+  }
+},{
+  "_id": {
+    "$oid": "5d65fd3c617d853d0e7e95ac"
+  },
+  "name": "快時尚",
+  "urls": 1955,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:15Z"
+  },
+  "created_at": {
+    "$date": "2019-08-28T04:04:12Z"
+  }
+},{
+  "_id": {
+    "$oid": "5d68fa67617d851f865e3fd6"
+  },
+  "name": "越南美妝",
+  "urls": 6352,
+  "country": "VN",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:15Z"
+  },
+  "created_at": {
+    "$date": "2019-08-30T10:28:55Z"
+  }
+},{
+  "_id": {
+    "$oid": "5d65f62d617d853d0e7e95a9"
+  },
+  "name": "輪胎",
+  "urls": 1358,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:15Z"
+  },
+  "created_at": {
+    "$date": "2019-08-28T03:34:05Z"
+  }
+},{
+  "_id": {
+    "$oid": "5d65f6ad617d853d0e7e95aa"
+  },
+  "name": "保健食品",
+  "urls": 1293,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-03-16T04:05:32Z"
+  },
+  "created_at": {
+    "$date": "2019-08-28T03:36:13Z"
+  }
+},{
+  "_id": {
+    "$oid": "5d68e5b6617d851c013bcbd6"
+  },
+  "name": "危機事件_新聞PTTDcard",
+  "urls": 865,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:15Z"
+  },
+  "created_at": {
+    "$date": "2019-08-30T09:00:38Z"
+  }
+},{
+  "_id": {
+    "$oid": "5d68f99b617d851f890d87d5"
+  },
+  "name": "馬來西亞美妝",
+  "urls": 7864,
+  "country": "MY",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:15Z"
+  },
+  "created_at": {
+    "$date": "2019-08-30T10:25:31Z"
+  }
+},{
+  "_id": {
+    "$oid": "5d68f9f4617d851c013bcbd7"
+  },
+  "name": "越南美妝(No SNS)",
+  "urls": 929,
+  "country": "VN",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:15Z"
+  },
+  "created_at": {
+    "$date": "2019-08-30T10:27:00Z"
+  }
+},{
+  "_id": {
+    "$oid": "5d5d1543617d8543e220d9b6"
+  },
+  "name": "新加坡消費調查PRO",
+  "urls": 6187,
+  "country": "SG",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:15Z"
+  },
+  "created_at": {
+    "$date": "2019-08-21T09:56:19Z"
+  }
+},{
+  "_id": {
+    "$oid": "5d6df93e617d8523691b51c5"
+  },
+  "name": "泰國美妝",
+  "urls": 10164,
+  "country": "TH",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:15Z"
+  },
+  "created_at": {
+    "$date": "2019-09-03T05:25:18Z"
+  }
+},{
+  "_id": {
+    "$oid": "5d6df98c617d85228f670637"
+  },
+  "name": "菲律賓美妝",
+  "urls": 2820,
+  "country": "PH",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:15Z"
+  },
+  "created_at": {
+    "$date": "2019-09-03T05:26:36Z"
+  }
+},{
+  "_id": {
+    "$oid": "5d6df99f617d8523691b51c6"
+  },
+  "name": "菲律賓美妝(NoSNS)",
+  "urls": 836,
+  "country": "PH",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:15Z"
+  },
+  "created_at": {
+    "$date": "2019-09-03T05:26:55Z"
+  }
+},{
+  "_id": {
+    "$oid": "5d6df9d6617d8523691b51c7"
+  },
+  "name": "印尼美妝",
+  "urls": 9473,
+  "country": "ID",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:15Z"
+  },
+  "created_at": {
+    "$date": "2019-09-03T05:27:50Z"
+  }
+},{
+  "_id": {
+    "$oid": "5d6df956617d85228f670636"
+  },
+  "name": "泰國美妝(No SNS)",
+  "urls": 468,
+  "country": "TH",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:15Z"
+  },
+  "created_at": {
+    "$date": "2019-09-03T05:25:42Z"
+  }
+},{
+  "_id": {
+    "$oid": "5dad5347617d852bb51ee0d6"
+  },
+  "name": "連鎖藥局",
+  "urls": 158,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-02-18T05:05:32Z"
+  },
+  "created_at": {
+    "$date": "2019-10-21T06:42:15Z"
+  }
+},{
+  "_id": {
+    "$oid": "5da96e69617d85457175a185"
+  },
+  "name": "旅行社",
+  "urls": 1462,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:15Z"
+  },
+  "created_at": {
+    "$date": "2019-10-18T07:48:57Z"
+  }
+},{
+  "_id": {
+    "$oid": "5dad1ec1617d8525493640e5"
+  },
+  "name": "米其林餐廳",
+  "urls": 1013,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:15Z"
+  },
+  "created_at": {
+    "$date": "2019-10-21T02:58:09Z"
+  }
+},{
+  "_id": {
+    "$oid": "5d820710617d850c922dc785"
+  },
+  "name": "Facebook",
+  "urls": 13653,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:15Z"
+  },
+  "created_at": {
+    "$date": "2019-09-18T10:29:36Z"
+  }
+},{
+  "_id": {
+    "$oid": "5dde21dc617d851df24da5f8"
+  },
+  "name": "地板磁磚",
+  "urls": 1271,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:15Z"
+  },
+  "created_at": {
+    "$date": "2019-11-27T07:12:28Z"
+  }
+},{
+  "_id": {
+    "$oid": "5e67577c617d857bc25e5c4b"
+  },
+  "name": "身體清潔",
+  "urls": 2660,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-03-10T10:48:11Z"
+  },
+  "created_at": {
+    "$date": "2020-03-10T09:01:48Z"
+  }
+},{
+  "_id": {
+    "$oid": "5d945f3f617d85380a64c3e5"
+  },
+  "name": "連鎖補習班",
+  "urls": 2027,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:15Z"
+  },
+  "created_at": {
+    "$date": "2019-10-02T08:26:39Z"
+  }
+},{
+  "_id": {
+    "$oid": "5dad2a37617d852725416344"
+  },
+  "name": "便利商店",
+  "urls": 869,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-03-10T09:29:45Z"
+  },
+  "created_at": {
+    "$date": "2019-10-21T03:47:03Z"
+  }
+},{
+  "_id": {
+    "$oid": "5db293f6617d8506a609bc76"
+  },
+  "name": "基金投信公司",
+  "urls": 1139,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-03-13T05:24:27Z"
+  },
+  "created_at": {
+    "$date": "2019-10-25T06:19:34Z"
+  }
+},{
+  "_id": {
+    "$oid": "5dc5238e617d852aea2e3594"
+  },
+  "name": "家用清潔",
+  "urls": 1350,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:15Z"
+  },
+  "created_at": {
+    "$date": "2019-11-08T08:13:02Z"
+  }
+},{
+  "_id": {
+    "$oid": "5dde1d5b617d851d646c8674"
+  },
+  "name": "計程車行",
+  "urls": 661,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:15Z"
+  },
+  "created_at": {
+    "$date": "2019-11-27T06:53:15Z"
+  }
+},{
+  "_id": {
+    "$oid": "5de9fb59617d8507aa245df5"
+  },
+  "name": "產險",
+  "urls": 840,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:15Z"
+  },
+  "created_at": {
+    "$date": "2019-12-06T06:55:21Z"
+  }
+},{
+  "_id": {
+    "$oid": "5dea0ab7617d850eaf1f5a04"
+  },
+  "name": "行動支付",
+  "urls": 2959,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-05-05T07:19:47Z"
+  },
+  "created_at": {
+    "$date": "2019-12-06T08:00:55Z"
+  }
+},{
+  "_id": {
+    "$oid": "5dedce63617d856d1441ac45"
+  },
+  "name": "寵物旅館",
+  "urls": 903,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:16Z"
+  },
+  "created_at": {
+    "$date": "2019-12-09T04:32:35Z"
+  }
+},{
+  "_id": {
+    "$oid": "5d8204d0617d850b4e3560a5"
+  },
+  "name": "Wiki",
+  "urls": 38,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:15Z"
+  },
+  "created_at": {
+    "$date": "2019-09-18T10:20:00Z"
+  }
+},{
+  "_id": {
+    "$oid": "5da6e286617d852b802bc6d5"
+  },
+  "name": "手搖飲料",
+  "urls": 54,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:15Z"
+  },
+  "created_at": {
+    "$date": "2019-10-16T09:27:34Z"
+  }
+},{
+  "_id": {
+    "$oid": "5da96a0e617d853a3a146fc5"
+  },
+  "name": "麻辣鍋",
+  "urls": 755,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:15Z"
+  },
+  "created_at": {
+    "$date": "2019-10-18T07:30:22Z"
+  }
+},{
+  "_id": {
+    "$oid": "5dedc4ff617d856a874e7435"
+  },
+  "name": "機能飲料",
+  "urls": 56,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:16Z"
+  },
+  "created_at": {
+    "$date": "2019-12-09T03:52:31Z"
+  }
+},{
+  "_id": {
+    "$oid": "5d946f04617d853c1a402175"
+  },
+  "name": "電腦補習班",
+  "urls": 27,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:15Z"
+  },
+  "created_at": {
+    "$date": "2019-10-02T09:33:56Z"
+  }
+},{
+  "_id": {
+    "$oid": "5d94713b617d853db41ffab4"
+  },
+  "name": "主題樂園",
+  "urls": 38,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:15Z"
+  },
+  "created_at": {
+    "$date": "2019-10-02T09:43:23Z"
+  }
+},{
+  "_id": {
+    "$oid": "5d94817c617d8543d30802a5"
+  },
+  "name": "文創園區",
+  "urls": 487,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:15Z"
+  },
+  "created_at": {
+    "$date": "2019-10-02T10:52:44Z"
+  }
+},{
+  "_id": {
+    "$oid": "5d6dfa09617d854c77188af4"
+  },
+  "name": "印尼美妝(No SNS)",
+  "urls": 659,
+  "country": "ID",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:15Z"
+  },
+  "created_at": {
+    "$date": "2019-09-03T05:28:41Z"
+  }
+},{
+  "_id": {
+    "$oid": "5dde31a3617d8522270ea5cb"
+  },
+  "name": "氣密窗",
+  "urls": 445,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:15Z"
+  },
+  "created_at": {
+    "$date": "2019-11-27T08:19:47Z"
+  }
+},{
+  "_id": {
+    "$oid": "5d82047c617d850c11572e25"
+  },
+  "name": "NEWS",
+  "urls": 801,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:15Z"
+  },
+  "created_at": {
+    "$date": "2019-09-18T10:18:36Z"
+  }
+},{
+  "_id": {
+    "$oid": "5dad4f2d617d852bb51ee0d5"
+  },
+  "name": "藥妝店",
+  "urls": 1082,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:15Z"
+  },
+  "created_at": {
+    "$date": "2019-10-21T06:24:45Z"
+  }
+},{
+  "_id": {
+    "$oid": "5dc52e0e617d852cfc4464d5"
+  },
+  "name": "汽車安全座椅",
+  "urls": 4336,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-03-11T11:07:09Z"
+  },
+  "created_at": {
+    "$date": "2019-11-08T08:57:50Z"
+  }
+},{
+  "_id": {
+    "$oid": "5dc8d143617d85082044e2d4"
+  },
+  "name": "彌月蛋糕",
+  "urls": 1776,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:15Z"
+  },
+  "created_at": {
+    "$date": "2019-11-11T03:10:59Z"
+  }
+},{
+  "_id": {
+    "$oid": "5dde45f2617d8528085caff6"
+  },
+  "name": "房仲",
+  "urls": 1425,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:15Z"
+  },
+  "created_at": {
+    "$date": "2019-11-27T09:46:26Z"
+  }
+},{
+  "_id": {
+    "$oid": "5e4e35eb617d8577d20b7285"
+  },
+  "name": "雞精產業",
+  "urls": 3826,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-02-20T09:46:30Z"
+  },
+  "created_at": {
+    "$date": "2020-02-20T07:31:55Z"
+  }
+},{
+  "_id": {
+    "$oid": "5d8207bd617d850c11572e6c"
+  },
+  "name": "Instagram",
+  "urls": 12111,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:15Z"
+  },
+  "created_at": {
+    "$date": "2019-09-18T10:32:29Z"
+  }
+},{
+  "_id": {
+    "$oid": "5d8204a1617d8509a67ce69b"
+  },
+  "name": "Article",
+  "urls": 1297,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:15Z"
+  },
+  "created_at": {
+    "$date": "2019-09-18T10:19:13Z"
+  }
+},{
+  "_id": {
+    "$oid": "5da97f4b617d85457175a186"
+  },
+  "name": "連鎖麵包店",
+  "urls": 16,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:15Z"
+  },
+  "created_at": {
+    "$date": "2019-10-18T09:00:59Z"
+  }
+},{
+  "_id": {
+    "$oid": "5dad540c617d852bb37f36b9"
+  },
+  "name": "二手車通路",
+  "urls": 1362,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:15Z"
+  },
+  "created_at": {
+    "$date": "2019-10-21T06:45:32Z"
+  }
+},{
+  "_id": {
+    "$oid": "5dad5ec9617d852bb51ee0ea"
+  },
+  "name": "健檢中心",
+  "urls": 1359,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:15Z"
+  },
+  "created_at": {
+    "$date": "2019-10-21T07:31:21Z"
+  }
+},{
+  "_id": {
+    "$oid": "5dc529ad617d852c5829e504"
+  },
+  "name": "單車",
+  "urls": 64,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:15Z"
+  },
+  "created_at": {
+    "$date": "2019-11-08T08:39:09Z"
+  }
+},{
+  "_id": {
+    "$oid": "5dedea54617d8571df39e3b4"
+  },
+  "name": "寵物用品通路",
+  "urls": 64,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:16Z"
+  },
+  "created_at": {
+    "$date": "2019-12-09T06:31:48Z"
+  }
+},{
+  "_id": {
+    "$oid": "5d8b2167617d8551c1370685"
+  },
+  "name": "運動時尚",
+  "urls": 1168,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:15Z"
+  },
+  "created_at": {
+    "$date": "2019-09-25T08:12:23Z"
+  }
+},{
+  "_id": {
+    "$oid": "5d8c847d617d85245a3d0199"
+  },
+  "name": "危機事件_論壇文章",
+  "urls": 4251,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:15Z"
+  },
+  "created_at": {
+    "$date": "2019-09-26T09:27:25Z"
+  }
+},{
+  "_id": {
+    "$oid": "5d94559a617d853590390cb5"
+  },
+  "name": "戶外運動",
+  "urls": 1160,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:15Z"
+  },
+  "created_at": {
+    "$date": "2019-10-02T07:45:30Z"
+  }
+},{
+  "_id": {
+    "$oid": "5d948265617d8543d30802a7"
+  },
+  "name": "飯店旅館",
+  "urls": 1149,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:15Z"
+  },
+  "created_at": {
+    "$date": "2019-10-02T10:56:37Z"
+  }
+},{
+  "_id": {
+    "$oid": "5dad33c7617d852a2a528cc4"
+  },
+  "name": "3C賣場",
+  "urls": 1318,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:15Z"
+  },
+  "created_at": {
+    "$date": "2019-10-21T04:27:51Z"
+  }
+},{
+  "_id": {
+    "$oid": "5d8204ed617d850b4e3560a6"
+  },
+  "name": "Forum",
+  "urls": 2954,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:15Z"
+  },
+  "created_at": {
+    "$date": "2019-09-18T10:20:29Z"
+  }
+},{
+  "_id": {
+    "$oid": "5dad2474617d85271b559ca3"
+  },
+  "name": "親子餐廳",
+  "urls": 489,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:15Z"
+  },
+  "created_at": {
+    "$date": "2019-10-21T03:22:28Z"
+  }
+},{
+  "_id": {
+    "$oid": "5dedc6ab617d856ad10b9a45"
+  },
+  "name": "牙醫診所",
+  "urls": 2390,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:16Z"
+  },
+  "created_at": {
+    "$date": "2019-12-09T03:59:39Z"
+  }
+},{
+  "_id": {
+    "$oid": "5db29ccb617d850bb72ee295"
+  },
+  "name": "沐浴用品",
+  "urls": 1320,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:15Z"
+  },
+  "created_at": {
+    "$date": "2019-10-25T06:57:15Z"
+  }
+},{
+  "_id": {
+    "$oid": "5d8b2d8e617d8552df14c575"
+  },
+  "name": "寵物食品",
+  "urls": 1018,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-05-04T08:41:15Z"
+  },
+  "created_at": {
+    "$date": "2019-09-25T09:04:14Z"
+  }
+},{
+  "_id": {
+    "$oid": "5d8da9d7617d856123610ca5"
+  },
+  "name": "家具",
+  "urls": 1347,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:15Z"
+  },
+  "created_at": {
+    "$date": "2019-09-27T06:19:03Z"
+  }
+},{
+  "_id": {
+    "$oid": "5d8dcbc1617d8577c02f1994"
+  },
+  "name": "運動飲料",
+  "urls": 953,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:15Z"
+  },
+  "created_at": {
+    "$date": "2019-09-27T08:43:45Z"
+  }
+},{
+  "_id": {
+    "$oid": "5dc8d895617d8509be06d2e5"
+  },
+  "name": "親子飯店",
+  "urls": 5785,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:15Z"
+  },
+  "created_at": {
+    "$date": "2019-11-11T03:42:13Z"
+  }
+},{
+  "_id": {
+    "$oid": "5de774c2617d85675a335245"
+  },
+  "name": "人身保險",
+  "urls": 903,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-02-18T05:04:31Z"
+  },
+  "created_at": {
+    "$date": "2019-12-04T08:56:34Z"
+  }
+},{
+  "_id": {
+    "$oid": "5d9481d4617d8543d30802a6"
+  },
+  "name": "按摩椅",
+  "urls": 1430,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:15Z"
+  },
+  "created_at": {
+    "$date": "2019-10-02T10:54:12Z"
+  }
+},{
+  "_id": {
+    "$oid": "5d948224617d854474544476"
+  },
+  "name": "buffet餐廳",
+  "urls": 1636,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:15Z"
+  },
+  "created_at": {
+    "$date": "2019-10-02T10:55:32Z"
+  }
+},{
+  "_id": {
+    "$oid": "5d8204b8617d850c11572e26"
+  },
+  "name": "Blog",
+  "urls": 11138,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:15Z"
+  },
+  "created_at": {
+    "$date": "2019-09-18T10:19:36Z"
+  }
+},{
+  "_id": {
+    "$oid": "5d9481b9617d854474544475"
+  },
+  "name": "親子遊樂園區",
+  "urls": 1384,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:15Z"
+  },
+  "created_at": {
+    "$date": "2019-10-02T10:53:45Z"
+  }
+},{
+  "_id": {
+    "$oid": "5e3a27ed617d851111680be4"
+  },
+  "name": "新聞頻道",
+  "urls": 795,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:16Z"
+  },
+  "created_at": {
+    "$date": "2020-02-05T02:26:53Z"
+  }
+},{
+  "_id": {
+    "$oid": "5d82056b617d850c11572e67"
+  },
+  "name": "Video",
+  "urls": 1109,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:15Z"
+  },
+  "created_at": {
+    "$date": "2019-09-18T10:22:35Z"
+  }
+},{
+  "_id": {
+    "$oid": "5d8dd766617d8579d63cb6f5"
+  },
+  "name": "手錶",
+  "urls": 733,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:15Z"
+  },
+  "created_at": {
+    "$date": "2019-09-27T09:33:26Z"
+  }
+},{
+  "_id": {
+    "$oid": "5dde1461617d8516ec78bcc5"
+  },
+  "name": "租車公司",
+  "urls": 1671,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:15Z"
+  },
+  "created_at": {
+    "$date": "2019-11-27T06:14:57Z"
+  }
+},{
+  "_id": {
+    "$oid": "5da95aa6617d853a3f52a585"
+  },
+  "name": "機車(電動機車)",
+  "urls": 961,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:15Z"
+  },
+  "created_at": {
+    "$date": "2019-10-18T06:24:38Z"
+  }
+},{
+  "_id": {
+    "$oid": "5dea0c45617d850ebc385c65"
+  },
+  "name": "茶飲料",
+  "urls": 1083,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-02-15T13:20:16Z"
+  },
+  "created_at": {
+    "$date": "2019-12-06T08:07:33Z"
+  }
+},{
+  "_id": {
+    "$oid": "5e4a7799617d8540f2489e75"
+  },
+  "name": "智慧型手機",
+  "urls": 2082,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-03-09T10:33:12Z"
+  },
+  "created_at": {
+    "$date": "2020-02-17T11:23:05Z"
+  }
+},{
+  "_id": {
+    "$oid": "5e8c3e29617d85594b197782"
+  },
+  "name": "訂餐APP",
+  "urls": 3630,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-04-13T06:14:07Z"
+  },
+  "created_at": {
+    "$date": "2020-04-07T08:47:37Z"
+  }
+},{
+  "_id": {
+    "$oid": "5e8c3e3b617d85430725a71c"
+  },
+  "name": "美容SPA會館",
+  "urls": 3406,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-04-13T06:45:31Z"
+  },
+  "created_at": {
+    "$date": "2020-04-07T08:47:55Z"
+  }
+},{
+  "_id": {
+    "$oid": "5e95c3e8617d85570d1a9b82"
+  },
+  "name": "自設客戶(時尚品牌相關)",
+  "urls": 5545,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-04-14T15:35:40Z"
+  },
+  "created_at": {
+    "$date": "2020-04-14T14:08:40Z"
+  }
+},{
+  "_id": {
+    "$oid": "5e98107d617d8573351fe695"
+  },
+  "name": "數位銀行",
+  "urls": 4140,
+  "country": "TW",
+  "updated_at": {
+    "$date": "2020-05-07T11:47:20Z"
+  },
+  "created_at": {
+    "$date": "2020-04-16T07:59:57Z"
+  }
+},{
+  "_id": {
+    "$oid": "5eafd211617d8570716f6847"
+  },
+  "country": "TW",
+  "created_at": {
+    "$date": "2020-05-04T08:28:01Z"
+  },
+  "name": "行李箱",
+  "updated_at": {
+    "$date": "2020-05-05T06:23:46Z"
+  },
+  "urls": 4006
+},{
+  "_id": {
+    "$oid": "5eafd23f617d856dfe5cf218"
+  },
+  "country": "TW",
+  "created_at": {
+    "$date": "2020-05-04T08:28:47Z"
+  },
+  "name": "訂房網站",
+  "updated_at": {
+    "$date": "2020-05-04T08:28:47Z"
+  },
+  "urls": 1
+}]
