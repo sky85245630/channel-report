@@ -7,7 +7,7 @@
     </v-row>
     <v-row>
         <v-col cols="2">
-            <v-select :items="['FB', 'IG']" label="報表種類" v-model="report_type">
+            <v-select :items="['fb', 'ig']" label="報表種類" v-model="report_type">
                 <template v-slot:item="{ item, attrs, on }">
                     <v-list-item v-bind="attrs" v-on="on">
                         <v-list-item-title :id="attrs['aria-labelledby']" v-text="item"></v-list-item-title>
@@ -15,7 +15,58 @@
                 </template>
             </v-select>
         </v-col>
-
+        <v-col cols="2">
+            <v-text-field :rules="rules" placeholder="請輸入檔案名稱" v-model="file_name"></v-text-field>
+        </v-col>
+        <v-col cols="2">
+            <v-menu
+                v-model="report_start1"
+                :close-on-content-click="false"
+                :nudge-right="40"
+                transition="scale-transition"
+                offset-y
+                min-width="290px"
+                >
+                <template v-slot:activator="{ on, attrs }">
+                    <v-text-field
+                    v-model="report_start"
+                    label="開始時間"
+                    prepend-icon="event"
+                    readonly
+                    v-bind="attrs"
+                    v-on="on"
+                    ></v-text-field>
+                </template>
+                <v-date-picker v-model="report_start" @input="report_start1 = false"></v-date-picker>
+            </v-menu>
+        </v-col>
+        <v-col cols="2">
+            <v-menu
+                v-model="report_end1"
+                :close-on-content-click="false"
+                :nudge-right="40"
+                transition="scale-transition"
+                offset-y
+                min-width="290px"
+                >
+                <template v-slot:activator="{ on, attrs }">
+                    <v-text-field
+                    v-model="report_end"
+                    label="開始時間"
+                    prepend-icon="event"
+                    readonly
+                    v-bind="attrs"
+                    v-on="on"
+                    ></v-text-field>
+                </template>
+                <v-date-picker v-model="report_end" @input="report_end1 = false"></v-date-picker>
+            </v-menu>
+        </v-col>
+        <v-col cols="2">
+            <div class="my-2">
+                <v-btn depressed large @click.prevent="sendYAYA">送出</v-btn>
+            </div>
+        </v-col>
     </v-row>
     <v-row>
         <v-col>
@@ -89,6 +140,13 @@ export default {
     name: "ChannelData",
 
     data: () => ({
+        // date: new Date().toISOString().substr(0, 10),
+        is_selectedQQ:[],
+        report_start:'',
+        report_start1:false,
+        report_end:'',
+        report_end1:false,
+        file_name:'',
         report_type: '',
         data: data,
         data_bk: data,
@@ -299,6 +357,51 @@ export default {
         }
     },
     methods: {
+        sendYAYA:function(){
+            if(this.report_type==""){
+                alert('請選擇報表種類')
+            }
+            if(this.file_name==""){
+                alert('請輸入檔案名稱')
+            }
+            if(this.report_start==""){
+                alert('請選擇開始時間')
+            }
+            if(this.report_end==""){
+                alert('請選擇結束時間')
+            }
+            if(this.report_end<this.report_start){
+                alert('開始時間不得大於結束時間')
+            }
+            if(this.selected==""){
+                alert('請選擇頻道')
+            }
+
+            // this.is_selectedQQ = this.selected
+            for(let i =0;i<this.selected.length;i++){
+                this.is_selectedQQ=[]
+                this.is_selectedQQ.push(this.selected[i].name)
+
+            }
+                console.log(this.is_selectedQQ)
+                console.log({report_type:this.report_type,file_name:this.file_name,report_start:this.report_start,report_end:this.report_end,channel_name_list:this.is_selectedQQ})
+
+            axios
+                .post(
+                    "http://18.141.228.127/get_data_report",
+                    {report_type:this.report_type,file_name:this.file_name,report_start:this.report_start,report_end:this.report_end,channel_name_list:this.is_selectedQQ}
+                    
+                )
+                .then(response => {
+                    console.log(response);
+                    // this.responseData = response.data.link;
+                })
+                .catch(error => {
+                    console.log(error);
+                    // console.log(error.response.data.msg)
+                    // this.errorMessage = error.response.data.msg;
+                });
+        },
         sendData: function () {
             this.showLoadingBar = true;
             var postforms = new FormData();
