@@ -6,7 +6,8 @@ Vue.use(Vuex)
 const state = {
     access_token:null,
     refresh_token:null,
-    user_name:''
+    user_name:'',
+    count: 0
 }
 
 const mutations = {
@@ -18,7 +19,9 @@ const mutations = {
     },
     SET_USER(state, data){
         state.user_name = data
-    }
+    },
+    increment: state => state.count++,
+    decrement: state => state.count--
 }
 
 const actions = {
