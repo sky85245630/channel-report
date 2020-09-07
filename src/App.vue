@@ -138,7 +138,7 @@ export default {
                             refresh_token = response.data.refresh_token
                             store.dispatch('handle_login', access_token)
                             store.dispatch('handle_refresh', refresh_token)
-                            this.$router.replace('/pro-generator')
+                            // this.$router.replace('/channelManagement')
                             // console.log(access_token)
 
                         })
@@ -157,8 +157,9 @@ export default {
             this.$router.replace('/login')
         },
         redirectToLogin: function () {
-            this.$router.replace('/login')
-        }
+            // this.$router.replace('/login')
+        },
+
     }
 };
 </script>
