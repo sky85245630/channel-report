@@ -2,18 +2,14 @@
 <v-container>
     <v-row>
         <v-col>
-            <h1 class="display-1">i-Buzz 頻道管理工具</h1>
+            <h1 class="display-1">fb/ig數據報表</h1>
         </v-col>
         <v-overlay :value="overlay">
             <v-progress-circular indeterminate size="64"></v-progress-circular>
         </v-overlay>
         <v-col class="col" style="text-align:right">
             <v-dialog v-model="create_channel" persistent max-width="500px">
-                <template v-slot:activator="{ on, attrs }">
-                    <v-btn class="ma-2" tile outlined v-bind="attrs" v-on="on" color="primary">
-                        <v-icon left>mdi-pencil</v-icon> 新增頻道
-                    </v-btn>
-                </template>
+
                 <v-card>
                     <v-card-title>
                         <span class="headline">新增頻道</span>
@@ -251,7 +247,8 @@ export default {
             "TH (泰國)",
             "VN (越南)"
         ],
-        types: ["facebook_miao", "instagram_miao", "morefb", "tanwang", "tanwang_hk", "tanwang_sea", "youtube"],
+        // types: ["facebook_miao", "instagram_miao", "morefb", "tanwang", "tanwang_hk", "tanwang_sea", "youtube"],
+        types: ["instagram_miao", "morefb"],
         media_types: ["article", "blog", "forum", "news", "sns", "video", "wiki"],
         selected: null,
         search: "",
